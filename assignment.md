@@ -8,6 +8,8 @@ Os problemas podem ser de qualquer tópico ou dificuldade
 
 Cada solução deve ser adicionada ao repositório em um arquivo diferente com o nome igual do número do problema + a extensão .rb
 
+O link do repositório deve ser compartilhado no canal **#coding-challenges** no Discord
+
 #### Exemplo:
 
 ```
